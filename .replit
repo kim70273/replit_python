@@ -1,0 +1,2 @@
+language = "python3"
+run = "python3 ./ch_2/문자열재정렬.py"
