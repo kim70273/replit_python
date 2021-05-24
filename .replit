@@ -1,2 +1,6 @@
 language = "python3"
+<<<<<<< HEAD
 run = "python3 ./ch_2/문자열재정렬.py"
+=======
+run = ""
+>>>>>>> 3aa3595cfeb63afdf04a433e514a5aecea1a9e7e
